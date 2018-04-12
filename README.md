@@ -1,0 +1,2 @@
+# Caida-Libre-
+Este proyecto imprime cada décima de segundo la distancia entre un objeto y el suelo, al final imprime el tiempo necesario en décima de segundo .proyecto creado por el team spotify :   JUAN NUÑEZ 17-EIIN-1-031 :  RAYSIRIS GARCIA 17-MIIN-1-160 : JUNIOR BELLIARD  17-EIIN-1-032 :   JEFFRY MARTINEZ  17-EIIN-1-029 : JOHNNY MOISES 16-SIIN-1-134 : LUISSANNY MARTE 17-EIIN-1-040 : LUIS ANDERSON 03-MIIN-1-024 : JORGE AYBAR   14-SIIN-1-026
